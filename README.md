@@ -1,4 +1,4 @@
-# widow
+# Widow Frame
 
 A open source, super light FPV Drone Frame.
 
