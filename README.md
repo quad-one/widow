@@ -1,6 +1,6 @@
 # Widow Frame
 
-A open source, super light FPV Drone Frame.
+A open source, super light FPV Drone Frame.<br>
 Recommended are 110X motors with M2 mounting holes that are 9mm diagonally apart from each other.
 
 
