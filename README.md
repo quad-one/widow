@@ -17,7 +17,7 @@ FC mounting: 26×26mm<br>
 * KingKong 65mm Propellers
 
 
-### Changelog
+## Changelog
 
 #### Widow v0.1
 initial release
