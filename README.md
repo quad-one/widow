@@ -3,18 +3,19 @@
 A open source, super light FPV Drone Frame.<br>
 
 <img src="https://i.ibb.co/DQDhmMP/widow110-v01.png" alt="widow110-v01" border="0">
-
+<img src="https://i.ibb.co/6n438tF/110.jpg" alt="110" border="0">
 
 ## Specifications
 
-Wheelbase: 100 or 110mm<br>
+Wheelbase: 100mm and 110mm<br>
 Bottom plate: 2mm<br>
 Motor mounting: four hole 9mm<br>
 FC mounting: 26×26mm<br>
+Weight: 5.7g (110mm)
 
 
 ## Recommended Parts 
-* HBSfpv F4 Flight Controller AIO (USB port hole is fitting)
+* HBSfpv F4 Flight Controller AIO (USB port hole is 100% fitting)
 * 110X motors with M2 mounting holes that are 9mm diagonally apart from each other
 * KingKong 65mm Propellers
 
