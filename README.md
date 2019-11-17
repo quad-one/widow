@@ -15,12 +15,18 @@ Weight: 5.7g (110mm)
 
 
 ## Recommended Parts 
-* HBSfpv F4 Flight Controller AIO (USB port hole is 100% fitting)
-* 110X motors with M2 mounting holes that are 9mm diagonally apart from each other
-* KingKong or Gemfan 65mm Propellers
+* GepRC GEP-F4-12A Flight Controller AIO (USB port hole is 100% fitting)
+* 110X motors with four M2 mounting holes that are 9mm diagonally apart from each other
+* HQ Micro Prop 65mm
 
 
 ## Changelog
+
+#### Widow v0.3
+- Recommended board changed due to unavailability of the HBSfpv F4
+- Hole for USB port reversed to match GEP-F4-12A
+- Motor mounting hole diameter changed to 2.2mm
+- Frame middle hole enlarged from 19mm to 20mm
 
 #### Widow v0.2
 - Arm design changed to provide better protection for the motors
